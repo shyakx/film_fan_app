@@ -1,0 +1,19 @@
+name: film_fan
+description: A Film Fan mobile app built using Flutter.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.15.0 # Use for API requests
+  flutter_rating_bar: ^4.0.0 # For rating stars widget
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
