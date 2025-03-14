@@ -64,9 +64,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📬 Contact
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle)
-- **Email:** [your.email@example.com](mailto\:your.email@example.com)
+- **LinkedIn:** [Steven on LinkedIn](https://www.linkedin.com/in/steven-shyaka-b0700a26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **Email:** [Steven SHYAKA](mailto\:shyakasteven2023@gmail.com.com)
 
 ---
 
